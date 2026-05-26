@@ -7,13 +7,12 @@
 </p>
 
 ---
----
 
 ## 🚀 What I Do
 
 - 🎓 **3rd Year ECE student** at **IIIT Allahabad (IIITA)**
 - 💻 Spend most of my time practicing **DSA & Competitive Programming**
-- ⚔️ Active on **Codeforces** and **LeetCode** — constantly improving
+- ⚔️ Active on **Codeforces** and **LeetCode** 
 - 🌱 **New to GitHub** — just getting started, more to come!
 - 🧠 Love tackling algorithmic challenges and optimizing solutions
 
