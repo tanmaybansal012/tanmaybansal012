@@ -7,36 +7,6 @@
 </p>
 
 ---
-
-## 🧑‍💻 About Me
-
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-    string name     = "Tanmay";
-    string college  = "IIIT Allahabad";
-    string branch   = "Electronics & Communication Engineering";
-    int    year     = 3;
-
-    vector<string> focus = {
-        "Data Structures & Algorithms",
-        "Competitive Programming",
-        "Problem Solving"
-    };
-
-    vector<string> platforms = {
-        "Codeforces", "LeetCode"
-    };
-
-    cout << "Currently grinding DSA and CP 🚀" << endl;
-    cout << "New to GitHub — building my presence here 🌱" << endl;
-
-    return 0;
-}
-```
-
 ---
 
 ## 🚀 What I Do
