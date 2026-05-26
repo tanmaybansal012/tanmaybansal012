@@ -21,7 +21,7 @@
 ## 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode" />
 </p>
 
 ---
@@ -29,10 +29,10 @@
 ## 📊 CP Profiles
 
 <p align="left">
-  <a href="https://codeforces.com/" target="_blank">
+  <a href="https://codeforces.com/profile/IEC2024044" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/IEC2024044/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
