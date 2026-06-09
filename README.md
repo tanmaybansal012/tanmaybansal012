@@ -1,9 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Tanmay+%F0%9F%91%8B;ECE+%40+IIITA+%7C+3rd+Year;DSA+%7C+CP+Enthusiast+🔥" alt="Typing SVG" />
-</h1>
 
-
----
 
 ## 🚀 What I Do
 
