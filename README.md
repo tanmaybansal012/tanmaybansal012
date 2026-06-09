@@ -1,23 +1,15 @@
-
-
-## 🚀 What I Do
-
 - 🎓 **3rd Year ECE student** at **IIIT Allahabad (IIITA)**
 - 💻 Spend most of my time practicing **DSA & Competitive Programming**
-- ⚔️ Active on **Codeforces** and **LeetCode** 
+- ⚔️ Active on **Codeforces** and **LeetCode**
 - 🌱 **New to GitHub** — just getting started, more to come!
 
 ---
-
-## 🛠️ Tech & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode" />
 </p>
 
 ---
-
-## 📊 CP Profiles
 
 <p align="left">
   <a href="https://codeforces.com/profile/IEC2024044" target="_blank">
@@ -34,11 +26,6 @@
 </p>
 ---
 
-
-
-
-## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://linkedin.com/in/tnmybansl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -49,19 +36,3 @@
 </p>
 
 ---
-
-
-<!--
-**tanmaybansal012/tanmaybansal012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
